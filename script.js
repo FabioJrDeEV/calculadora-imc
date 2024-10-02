@@ -18,3 +18,4 @@ const renderizador = document.querySelector("#renderiza-text");
         peso.innerHTML = ""
         altura.innerHTML = ""
     })
+
