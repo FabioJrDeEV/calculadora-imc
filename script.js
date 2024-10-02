@@ -19,3 +19,4 @@ const renderizador = document.querySelector("#renderiza-text");
         altura.innerHTML = ""
     })
 
+

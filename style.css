@@ -93,8 +93,6 @@ form input {
     font-size: 28px;
 }
 
-
-
 @media (max-width: 450px) {
     header .title h1 {
         margin: 30px 20px;
